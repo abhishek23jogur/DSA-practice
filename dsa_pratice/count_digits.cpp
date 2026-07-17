@@ -10,7 +10,6 @@ int countDigits(int n) {
 
     return count; 
 } 
-
 int main() { 
 int n = 12345; 
 cout << countDigits(n); 
